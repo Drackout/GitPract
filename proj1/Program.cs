@@ -7,7 +7,7 @@ namespace proj1
         private static void Main(string[] args)
         {
             ///
-            ////B
+            ////
             Console.WriteLine("Hello LP1!");
         }
     }
